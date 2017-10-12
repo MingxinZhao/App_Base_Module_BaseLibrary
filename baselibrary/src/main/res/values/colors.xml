@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_default_status_color">#FFFFFF</color>
+
+    <color name="app_status_color">#000000</color>
+
+    <color name="tv_gray">#666666</color>
+    <color name="tv_blue">#308BE9</color>
+    <color name="divider_gray">#d9d9d9</color>
+
+    <color name="common_orange">#f78059</color>
+
+</resources>
